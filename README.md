@@ -8,3 +8,6 @@ combinar um dia para almoçar ou jantar juntos!
 
 Projeto feito para aprender [ASP.NET](https://www.asp.net/) e outras
 tecnologias.
+
+![Tender logo](Tender/wwwroot/images/logo.svg)
+
